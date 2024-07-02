@@ -1,3 +1,3 @@
 # demo
 This is my first git repo <br>
-Author- Umesh wadhwa
+Author- Umesh wadhwa zira
